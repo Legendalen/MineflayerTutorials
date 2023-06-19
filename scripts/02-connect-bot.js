@@ -1,10 +1,10 @@
 const mineflayer = require('mineflayer');
 
 const botArgs = {
-    host: 'localhost',
-    port: '12345',
-    username: "Hello_world",
-    version: '1.8.9'
+    ip: 'WSupraBoxPvp.aternos.me',
+    port: '25727',
+    username: "TürkBot",
+    version: '1.19'
 };
 
 // Setup bot connection
